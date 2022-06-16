@@ -2,6 +2,13 @@
     padding-top: 70px;
     padding-bottom: 70px;
 }
+/* .truncate-ellipsis {
+  width: 800px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+} */
 .navbar {
     padding-top: 15px;
     padding-bottom: 15px;
